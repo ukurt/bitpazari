@@ -1,0 +1,1 @@
+This project aims to create a c2c application using php and mysql.
